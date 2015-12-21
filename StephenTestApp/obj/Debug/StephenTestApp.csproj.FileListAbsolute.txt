@@ -1,0 +1,13 @@
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\bin\Debug\StephenTestApp.exe.config
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\bin\Debug\StephenTestApp.exe
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\bin\Debug\StephenTestApp.pdb
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\MainWindow.g.cs
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\App.g.cs
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp_MarkupCompile.cache
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp_MarkupCompile.lref
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\MainWindow.baml
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp.g.resources
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp.Properties.Resources.resources
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp.csproj.GenerateResource.Cache
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp.exe
+c:\users\stephenwhitcomb\documents\visual studio 2015\Projects\StephenTestApp\StephenTestApp\obj\Debug\StephenTestApp.pdb
